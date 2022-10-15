@@ -93,29 +93,8 @@ You can preview the README too.
 
 ## 🛠️ Installation Steps
 
-1. Clone the repository
 
-```bash
-git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
-```
 
-2. Change the working directory
-
-```bash
-cd github-profile-readme-generator
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Run the app
-
-```bash
-npm start
-```
 
 🌟 You are all set!
 
